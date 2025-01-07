@@ -25,6 +25,9 @@ o	Transaction Count: 656K
 
 o	Customer Satisfaction Score (CSS): 3.19
 
+![image](https://github.com/user-attachments/assets/ccdd6373-6b26-4757-98ff-a1712a87c312)
+
+
 **2.	Performance by Card Category:**
 
 o	Blue cards dominate in revenue ($46M) but have the highest acquisition cost ($46M).
