@@ -1,9 +1,9 @@
 # Credit_Card_Analysis
 ## Description:-
-The provided dashboards visualize key metrics related to credit card transactions and customer demographics for a financial institution. They focus on analyzing revenue, transaction trends, customer segments, and card performance, offering a comprehensive overview of credit card operations.
+The provided 2 dashboards visualize key metrics related to credit card transactions and customer demographics for a financial institution. They focus on analyzing revenue, transaction trends, customer segments, and card performance, offering a comprehensive overview of credit card operations.
 
 ## Objective:-
-The primary objective of these dashboards is to:
+The primary objective of these 2 dashboards is to:
 
 1.	Monitor overall revenue, transaction amounts, and interest earned from credit card usage.
 
