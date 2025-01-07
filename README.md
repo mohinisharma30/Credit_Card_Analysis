@@ -58,6 +58,9 @@ o	Males (especially aged 40-50) contribute more revenue than females across all 
 
 o	Customers in California, Texas, and New York drive the highest revenue geographically.
 
+![image](https://github.com/user-attachments/assets/fb5b36f6-086d-4d96-8e96-a7dd7170407d)
+
+
 ## Insights:-
 **1.	Revenue Drivers:**
 
