@@ -88,21 +88,25 @@ o	Reevaluate the acquisition cost for Blue cards to improve profitability.
 o	Promote Platinum cards with targeted campaigns or enhanced rewards to increase adoption.
 
 **2.	Customer Engagement:**
+
 o	Develop personalized marketing strategies targeting high-revenue demographics such as graduates, businessmen, and the 40-50 age group.
 
 o	Provide incentives for online transactions to diversify transaction methods.
 
 **3.	Revenue Growth:**
+
 o	Focus on increasing expenditure in underperforming categories like food and travel through targeted cashback or reward programs.
 
 o	Expand outreach in top-performing states (CA, TX, NY) and replicate successful strategies in other regions.
 
 **4.	Cost Optimization:**
+
 o	Assess and optimize CAC for different card categories, especially Blue cards
 
 o	Streamline promotional budgets toward demographics with the highest ROI.
 
 **5.	Product Enhancement:**
+
 o	Enhance the user experience for online payments to encourage adoption.
 
 o	Introduce tiered rewards for swipe and chip transactions to maintain their dominance.
